@@ -3,7 +3,7 @@
 ![churn](https://github.com/Estimatorbeat/CustomerChurnUsingMachineLearning/assets/154437491/21b91ced-b873-4167-a6e8-57353f516dda)
 
 ## Project Overview
-The "Customer Churn using Marchine Learning' project aims aims to develop a robust customer churn prediction systems. By leveraging advanced analytics and machine
+The "Customer Churn using Marchine Learning' project aim to develop a robust customer churn prediction systems. By leveraging advanced analytics and machine
 learning techniques on available customer data, to accurately forecast customer churn and implement targeted retention initiatives
 
 ## Project Objective
