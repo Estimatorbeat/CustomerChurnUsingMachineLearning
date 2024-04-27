@@ -33,7 +33,7 @@ To assess the performance of the machine learniung model, the following evaluati
 - **Accuracy:** Accuracy measures the overall correctness of the model's predictions.(both churn and non-churn).
 
 ## Key Insights
-- The purpose of this project is to aims to develop a robust customer churn prediction system.
+- The purpose of this project aim to develop a robust customer churn prediction system.
 - The best model that predicts with less error is to be chosen, subjecting them to the diiferent metrics including k-foldcross validation(accuracy, precision and recall).
 - The confusion matrix displays the error value for each model in terms of False Positive (Where the model predicts a customer churn when they actually didn't churn - Precision) and False Negative (Where the model predicts a customer didn't churn where they actually churn - Recall).
 - After Cross Validation, the model with the highest recall will be deployed. Recall  is the most relevant matrix for evaluation in this business problem. This is because, the effort of the error (Recall) on the business if not addressed will be massive compared to that of precision
